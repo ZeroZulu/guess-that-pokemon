@@ -1,16 +1,13 @@
 <div align="center">
 
-<!-- Animated SVG Banner -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a1a,50:FFD700,100:FF6B35&height=200&section=header&text=Who%27s%20That%20Pok%C3%A9mon%3F&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=The%20Ultimate%20Challenge&descSize=16&descAlignY=55&animation=fadeIn" width="100%" />
 
-<!-- Animated Typing -->
 <a href="#">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=1000&color=FFD700&center=true&vCenter=true&repeat=true&width=435&height=35&lines=1%2C025%2B+Pok%C3%A9mon+%7C+9+Generations;3+Game+Modes+%7C+3+Difficulties;Auto-Syncing+via+Pok%C3%A9API" alt="Typing SVG" />
 </a>
 
 <br/>
 
-<!-- Tech Badges -->
 ![React](https://img.shields.io/badge/React_18-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
@@ -18,18 +15,43 @@
 
 <br/>
 
-<!-- Stats Badges -->
-![Pokémon](https://img.shields.io/badge/Pokémon-1,025+-E63946?style=flat-square&labelColor=1a0a2e)
+![Pokémon](https://img.shields.io/badge/Pok%C3%A9mon-1,025+-E63946?style=flat-square&labelColor=1a0a2e)
 ![Generations](https://img.shields.io/badge/Generations-9-FFD700?style=flat-square&labelColor=1a0a2e)
 ![Bundle](https://img.shields.io/badge/Bundle-66kb_gzip-2A9D8F?style=flat-square&labelColor=1a0a2e)
 ![License](https://img.shields.io/badge/License-MIT-457B9D?style=flat-square&labelColor=1a0a2e)
 
 <br/><br/>
 
-<!-- Play Button -->
-[<img src="https://img.shields.io/badge/▶_PLAY_NOW-FFD700?style=for-the-badge&logoColor=black" height="40" />](https://YOUR_USERNAME.github.io/guess-that-pokemon/)
+[<img src="https://img.shields.io/badge/%E2%96%B6_PLAY_NOW-FFD700?style=for-the-badge&logoColor=black" height="40" />](https://guess-that-pokemon-three.vercel.app)
 
 </div>
+
+---
+
+## 📸 Screenshots
+
+<table>
+<tr>
+<td align="center" width="50%">
+<img src="./screenshots/home.png" alt="Title Screen" width="100%" />
+<br/><b>Title Screen</b>
+</td>
+<td align="center" width="50%">
+<img src="./screenshots/settings.png" alt="Challenge Settings" width="100%" />
+<br/><b>Challenge Settings</b>
+</td>
+</tr>
+<tr>
+<td align="center" width="50%">
+<img src="./screenshots/normal.png" alt="Silhouette Mode - Normal" width="100%" />
+<br/><b>Silhouette — Normal Mode</b>
+</td>
+<td align="center" width="50%">
+<img src="./screenshots/easy.png" alt="Silhouette Mode - Easy" width="100%" />
+<br/><b>Silhouette — Easy Mode</b>
+</td>
+</tr>
+</table>
 
 ---
 
@@ -77,7 +99,7 @@ No image — only type badges<br/>& Pokédex number. Masters only
 ## ⚡ Quick Start
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/guess-that-pokemon.git
+git clone https://github.com/ZeroZulu/guess-that-pokemon.git
 cd guess-that-pokemon
 npm install
 npm run dev
@@ -93,12 +115,12 @@ npm run dev
 <tr>
 <td align="center">
 
-Import repo at [vercel.com/new](https://vercel.com/new)<br/>→ Click **Deploy** → Done
+Import repo at <a href="https://vercel.com/new">vercel.com/new</a><br/>→ Click <b>Deploy</b> → Done
 
 </td>
 <td align="center">
 
-Repo **Settings → Pages** → Source: **GitHub Actions**<br/>→ Auto-deploys on every push
+Repo <b>Settings → Pages</b> → Source: <b>GitHub Actions</b><br/>→ Auto-deploys on every push
 
 </td>
 </tr>
