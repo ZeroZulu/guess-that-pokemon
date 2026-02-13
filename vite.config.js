@@ -1,9 +1,11 @@
 import { defineConfig } from 'vite'
 import react from '@vitejs/plugin-react'
 
+const isGitHubPages = process.env.GITHUB_ACTIONS === 'true'
+
 export default defineConfig({
   plugins: [react()],
-  base: '/guess-that-pokemon/',
+  base: isGitHubPages ? '/guess-that-pokemon/' : '/',
   build: {
     outDir: 'dist',
   }
