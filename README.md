@@ -5,7 +5,7 @@
 
 <!-- Animated Typing -->
 <a href="#">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=FFD700&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=%E2%9A%A1+1%2C025%2B+Pok%C3%A9mon+%7C+9+Generations;%F0%9F%8E%AE+3+Game+Modes+%7C+3+Difficulties;%F0%9F%94%84+Auto-Syncing+Database+via+Pok%C3%A9API" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=1000&color=FFD700&center=true&vCenter=true&repeat=true&width=435&height=35&lines=1%2C025%2B+Pok%C3%A9mon+%7C+9+Generations;3+Game+Modes+%7C+3+Difficulties;Auto-Syncing+via+Pok%C3%A9API" alt="Typing SVG" />
 </a>
 
 <br/>
